@@ -27,7 +27,7 @@ Because of the massive size of files and GitHub's rules, there are only tests fi
   * [فایل های پایتون](#snake-فایل-های-پایتون)
   * [فایل ها و پوشه های داخل پوشه ی تست](#hash-فایل-ها-و-پوشه-های-داخل-پوشه-ی-تست)
   * [دسترسی به اطلاعات](#key-دسترسی-به-اطلاعات)
-  * [دستور های کربردی اسکوئلایت](#white_check_mark-دستور-های-کربردی-اسکوئلایت)
+  * [دستور های کاربردی اسکوئلایت](#white_check_mark-دستور-های-کاربردی-اسکوئلایت)
   * [چطور از خود محافظت کنید](#shield-چطور-از-خود-محافظت-کنید)
   * [نکات](#warning-نکات)
   * [دانلود](#floppy_disk-دانلود)
@@ -167,7 +167,7 @@ You can download complete databases in this [Telegram channel](https://t.me/DbTe
 
 ---
 
-## :white_check_mark: دستور های کربردی اسکوئلایت
+## :white_check_mark: دستور های کاربردی اسکوئلایت
 **نکته:** برای استفاده از این دستور ها در زبان پایتون،
 <div dir="ltr">
 
